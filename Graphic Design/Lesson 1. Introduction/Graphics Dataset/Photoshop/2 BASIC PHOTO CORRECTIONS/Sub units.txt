@@ -1,0 +1,6 @@
+1. Opening a file with Adobe Bridge 
+2. Evaluating an image for editing 
+3. Straightening and cropping the image 
+4. Correcting tone and color/ Cleaning up with the Remove tool 
+5. Retouching a deleted area using Generative Fill 
+6. Sharpening the image - Filter -> Convert to smart Filter - Filter -> Sharpen - UnSharpen Mask
